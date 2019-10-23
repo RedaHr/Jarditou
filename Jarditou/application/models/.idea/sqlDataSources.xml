@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="50eafe91-9144-4fa2-86a0-c6fe8016797f" />
+          <option name="name" value="jarditou" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Downloads/jarditou.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
